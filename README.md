@@ -4,25 +4,25 @@
 
 ## What I Built
 
-I built a command-line tool called `log-insight` designed to help developers and system administrators quickly analyze log files. Log files are like digital diaries that record what a computer system or application is doing, and they can become very large and difficult to navigate. `log-insight` automates the process of extracting key information from these files, making it easier to identify errors, understand system behavior, and troubleshoot problems.
+I built a command-line tool called `log-insight` to help developers and system administrators quickly analyze log files. Log files are like digital diaries that record what a computer system or application is doing, and they can become very large and difficult to navigate. `Log-insight` automates extracting key information from these files, making it easier to identify errors, understand system behavior, and troubleshoot problems.
 
 Specifically, `log-insight` provides the following functionalities:
 
 * **Keyword Counting:** Counts the number of times a specific keyword appears in the log file. This is useful for quickly assessing the frequency of particular events, such as errors, warnings, or successful operations. Users can specify the keyword they want to search for.
 * **Top Entry Analysis:** Identifies and displays the most frequent log entries. This helps in understanding recurring patterns and identifying the most common activities or issues within the system. The number of top entries to display is configurable.
-* **Error Timestamp Extraction:** Extracts and lists the timestamps of log entries that contain a specific error keyword (e.g., "error," but this can be customized). This allows users to quickly pinpoint when errors occurred, which is crucial for debugging and incident analysis.
+* **Error Timestamp Extraction:** Extracts and lists the timestamps of log entries that contain a specific error keyword (e.g., "error", but this can be customized). This allows users to quickly pinpoint when errors occurred, which is crucial for debugging and incident analysis.
 
 `log-insight` aims to "crush the command line" by providing a simple, efficient, and scriptable way to gain valuable insights from log data, directly from the terminal. It eliminates the need for manual searching and complex text processing, saving time and improving productivity.
 
 ## Demo
 
 [Demo Video Link]
-<!-- Will add a link to the video demonstration once created -->
+
 
 ## Code Repository
 
-https://github.com/shittuay/log-insight/
-<!-- Will add the link to the GitHub repository once created -->
+https://github.com/shittuay/log-insight.git
+
 
 ## How I Used Amazon Q Developer
 
