@@ -1,0 +1,6 @@
+2025-05-09 10:00:01 INFO: Application started
+2025-05-09 10:00:15 ERROR: Something went wrong!
+2025-05-09 10:00:20 INFO: User logged in
+2025-05-09 10:00:30 WARNING: Low disk space
+2025-05-09 10:00:15 ERROR: Another problem!
+2025-05-09 10:01:00 INFO: Application ended
